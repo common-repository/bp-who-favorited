@@ -1,0 +1,15 @@
+.bwf {
+	display: block;
+	font-size: 13px;
+	margin-top: 10px;
+}
+
+.bwf span {
+	margin-left: 5px;
+}
+
+.bwf a img {
+	width: 22px;
+	border-radius: 50%;
+	float:left;
+}
